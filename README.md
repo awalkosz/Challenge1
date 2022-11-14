@@ -1,5 +1,8 @@
 # Challenge1
 First Project
+Adjusted correct semantics for HTML
+Corrected the correlation in CSS to match new updated semantics
+
 
 # User Story
 AS A marketing agency
